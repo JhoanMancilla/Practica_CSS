@@ -94,12 +94,13 @@ section{
 
 	@media (max-width: 600px){
 
+
 		body{
 			font-family: Arial, sans-serif;
 		}
 		aside{
 			float: left;
-			width: 1000000000%;
+			width: 100%;
 			clear: both;
 		}
 		section{
